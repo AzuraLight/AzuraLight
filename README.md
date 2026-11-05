@@ -1,4 +1,4 @@
-### AzuraLight (이현도) · Frontend Engineer
+### Hyundo Lee (이현도) · Frontend Engineer
 
 Frontend engineer (about 3 years) who builds authoring tools, admin consoles and public-service portals in Vue 3 and TypeScript — from design to deployment.
 I use AI coding agents in daily work, and designed and run the setup around them: decisions and records live in machine-checked rules outside the agent, not in its own judgement.
